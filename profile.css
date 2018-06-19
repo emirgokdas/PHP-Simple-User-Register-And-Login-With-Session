@@ -1,0 +1,9 @@
+@charset "utf-8";
+body {
+}
+
+.friend-list li img {
+	
+	list-style:none;
+	display:block;
+}
